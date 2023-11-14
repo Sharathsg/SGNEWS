@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SG_NEWS_APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news">News</string>
+    <string name="api_key">1f51fde</string>
+    <string name="business">business</string>
+    <string name="cricket">cricket</string>
+    <string name="entertainment">entertainment</string>
+    <string name="title_activity_news_details">NewsDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="news_image">news_details_image</string>
+    <string name="news_content">news_details_content</string>
+    <string name="error_loading_msg">Error in loading Please Try again</string>
+    <string name="news_tabname">News</string>
+    <string name="cricket_tabname">Cricket</string>
+    <string name="enterainment">Enterainment</string>
+    <string name="business_tabname">Business</string>
+    <string name="news_">news_details_image</string>
+    <string name="news_details_title">news_details_title</string>
+    <string name="no_internet">"Oops!! There is no internet connection. Please enable internet connection and try again."</string>
+
+</resources>
